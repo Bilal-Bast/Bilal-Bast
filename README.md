@@ -31,35 +31,7 @@ I’m an IT and software development student with an interest in building useful
   <img src="https://streak-stats.demolab.com?user=Bilal-Bast&theme=dark&hide_border=true&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub streak statistics for Bilal-Bast" />
 </p>
 
-## Featured Projects
-
-### GoDelivery-LB
-Delivery management platform with separate systems for administrators, merchants, and drivers. Built with **Node.js, Express, PostgreSQL, and Prisma**.
-
-**Repository:** [Add project URL]
-
-### GoDelivery-LB App
-Flutter and Dart mobile application connected to the GoDelivery backend.
-
-**Repository:** [Add project URL]
-
-### Crown of Vael
-Mobile idle RPG built with **Godot 4 and GDScript**.
-
-**Repository:** [Add project URL]
-
-### AutoDownloadsOrganizer
-PowerShell utility that automatically organizes files in the Windows Downloads folder.
-
-**Repository:** [Add project URL]
-
-## Currently Learning / Building
-
-- Building projects across backend development, mobile apps, games, and Windows automation.
-- Continuing my studies in networking and IT alongside software development.
-
 ## Contact / Connect
 
 - **GitHub:** [github.com/Bilal-Bast](https://github.com/Bilal-Bast)
-- **Email:** [Add your preferred contact email]
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **Email:** [bilalalbast2018@gmail.com]
